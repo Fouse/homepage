@@ -52,7 +52,6 @@
   margin: 0 2em 0 2em;
   font-size: 2em;
   text-indent: 1em;
-  /*font-style: italic;*/
 }
 
 .home {
@@ -190,10 +189,6 @@
   background-color: white;
   padding: 0 0 20px 0;
 }
-
-/*.bg-4 label {
-  margin-top: 10px;
-}*/
 
 .bg-5 {
   float: left;
